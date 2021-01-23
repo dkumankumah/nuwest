@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="nl.daxte1.dax1">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/icon"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".SuveysActivity"
+            android:theme="@style/AppTheme.NoActionBar" ></activity>
+        <activity android:name=".NewSurveyActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".NewAdminPostActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".NewPostActivity" />
+        <activity
+            android:name=".profileActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".PermissionActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ForgotPasswordActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".SignupActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".LoginActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".StartupAcitivty" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.theartofdev.edmodo.cropper.CropImageActivity"
+            android:theme="@style/Base.Theme.AppCompat" />
+    </application>
+
+</manifest>

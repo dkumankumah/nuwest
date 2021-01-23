@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Nu West</string>
+    <string name="Permission">Voor het gebruik maken van de app hebben wij toestemming nodig om de fotobibliotheek te openen. Dit is nodig zodat jij foto\'s kunt toevoegen bij een blog!</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

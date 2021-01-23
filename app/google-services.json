@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "867465558866",
+    "firebase_url": "https://dax1-f48fa.firebaseio.com",
+    "project_id": "dax1-f48fa",
+    "storage_bucket": "dax1-f48fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867465558866:android:e1f8f1cb000c8007",
+        "android_client_info": {
+          "package_name": "nl.daxte1.dax1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "867465558866-53dn2pfub6q44kttd7p7kkb98vm47al4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "nl.daxte1.dax1",
+            "certificate_hash": "f7a82f3c9d3350972ff1c652f83e75d60eb8359f"
+          }
+        },
+        {
+          "client_id": "867465558866-nbcrh7j54dn5kki1mu9smt300ep22n94.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDidCUiO2z9stwYrPB-oieFM-j6pl6yys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "867465558866-nbcrh7j54dn5kki1mu9smt300ep22n94.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

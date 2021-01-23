@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mVote_btn"
+        android:title="Stem mee" />
+    <item
+        android:id="@+id/mProfile_btn"
+        android:title="Profiel" />
+    <item
+        android:id="@+id/mLogout_btn"
+        android:title="Log uit" />
+</menu>
